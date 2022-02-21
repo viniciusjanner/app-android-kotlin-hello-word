@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/vinic/AndroidStudioProjects/AppHelloWord/app/src/main/res/layout/activity_main.xml" value="0.16109422492401215" />
+        <entry key="..\:/Users/vinic/AndroidStudioProjects/AppHelloWord/app/src/main/res/drawable/ic_android.xml" value="0.154" />
+        <entry key="..\:/Users/vinic/AndroidStudioProjects/AppHelloWord/app/src/main/res/font/antic_didone.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/vinic/AndroidStudioProjects/AppHelloWord/app/src/main/res/layout/activity_main.xml" value="0.225" />
       </map>
     </option>
   </component>
